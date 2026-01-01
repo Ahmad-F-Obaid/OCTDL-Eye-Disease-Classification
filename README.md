@@ -395,12 +395,6 @@ For questions, collaborations, or feedback:
 - **LinkedIn**: [Ahmad F.obaid](https://www.linkedin.com/in/ahmad-f-obaid-81b570296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [@Ahmad-F-Obaid](https://github.com/Ahmad-F-Obaid)
 
-### Support
-
-- 📧 **Technical Issues**: Open a GitHub issue
-- 💬 **Discussions**: Use GitHub Discussions
-- 📚 **Documentation**: Check the wiki
-
 ---
 
 <div align="center">
